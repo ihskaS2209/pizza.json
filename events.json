@@ -3,13 +3,13 @@
       {
         "id": 10,
          "img_url": "https://raw.githubusercontent.com/ihskaS2209/pizza.json/551cfc0f8dcf249760a630bd5b8876588ea47cff/Web-O-Code.jpeg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "description": "12 hour frontend development event where students developed web pages on the topic 'Global Innovation'.",
         "team_info": "Some quick example text to build on the card title and make up the bulk of the card's content."
       },
       {
         "id": 11,
          "img_url": "https://raw.githubusercontent.com/ihskaS2209/pizza.json/main/Coding-Competition.jpeg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "description": "Offline coding event where students were given  questions of DSA to improve their skills.",
         "team_info": "Some quick example text to build on the card title and make up the bulk of the card's content."
       },
       {
