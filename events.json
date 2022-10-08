@@ -2,20 +2,20 @@
     "PreviousEvents": [
       {
         "id": 10,
+         "img_url": "",
         "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-        "img_url": "",
         "team_info": "Some quick example text to build on the card title and make up the bulk of the card's content."
       },
       {
         "id": 11,
+         "img_url": "",
         "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-        "img_url": "",
         "team_info": "Some quick example text to build on the card title and make up the bulk of the card's content."
       },
       {
         "id": 10,
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
         "img_url": "",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
         "team_info": "Some quick example text to build on the card title and make up the bulk of the card's content."
       }
     ]
